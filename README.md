@@ -15,3 +15,4 @@ und Best Practices für den Einsatz der Sprache.
 
 * Überall wo JavaScript eingesetzt wird, lässt sich auch
 TypeScript verwenden.
+
