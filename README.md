@@ -1,5 +1,5 @@
 # dev22-JavaScript_in_typsicher_TypeScript
-Quellcode zum Artikel von Jan Hover
+Quellcode zum Artikel von [Ivan Hofer](https://github.com/ivanhofer)
 
 iX-Developer-Sonderheft __Moderne Programmiersprachen__, 2022
 
